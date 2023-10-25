@@ -6,12 +6,12 @@ Content-Type: application/json
 
 ### GET user
 GET http://localhost:7070/private/me
-Authorization: Bearer ccfa2202-af26-4cc7-8490-82c36cc15d7c
+Authorization: Bearer bce42fd8-cc25-4798-a36b-62c09f33d581
 Accept: application/json
 
 ### GET news
 GET http://localhost:7070/private/news
-Authorization: Bearer ccfa2202-af26-4cc7-8490-82c36cc15d7c
+Authorization: Bearer bce42fd8-cc25-4798-a36b-62c09f33d581
 Accept: application/json
 
 ###
